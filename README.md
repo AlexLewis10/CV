@@ -1,6 +1,6 @@
-## Your Name
+## Alex Lewis
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+.....................Software Developer. Coming from a succesful background in IT Rectuitment which was preceded by obtaining strong acamdemic qualifications. Now looking to move into the world of tech, in which I can use my creativity to add genuine value into a sector which is only going to grow, not only in size but in terms of the impact on our every day lives.
 
 ## Skills
 
@@ -30,26 +30,45 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Newcastle University; LLM International Legal Studies: 2012 - 2013
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Modules including International Sale of Goods, International Movement of People, Human Rights, Public International Law
+- Merit
+
+
+#### Newcastle University; BA Geography: 2009 - 2012
+
+- Modules included Geopolitics, Geographies of Money and 
+- 2:1 
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+3 A-Levels at A grade; Georgraphy, Law, History
+1 AS-Level at B grade
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**J&C Associates** March 2015 - February 2020 
+*Senior IT Recruitment Consultant* 
+- Covering areas including but not limited to: JavaScript Developers, UX Designers, Architects, Business Analysts and Project Managers
+- Gaining understanding of the subject matter in order to be informed and therefore adding value for candidates and clients alike.
+- Taking techincal briefings from hiring managers. Giving feedback on specifications and throughout the process as to what could be achieved in the market considering the given parameters.
+- Forging a succesful career in an industry where only 1 in 6 make it beyond the first 6 months in the job.
+- A consistently high biller, generating in excess of £700k across 5 years.
+- Progressed from a resourcing role in to a senior position where I was responsible for managing and mainting relationships on important accounts.
+- Playing a key role in the internal hiring process. Testing prospective employees for aptitude as well as interpesonal skills. Gained a reputation for using curveball questions effectively in order to provoke interesting topics of conversation that wouldn't normally be discussed in interviews.
 
-**Company Name** (start_date to end_date)   
+**Football Radar** May 2014 - September 2014   
 *Your job title*  
 - Any experience relevent to software development
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Football, gym, running - I've completed 2 marathons so far and I am looking to complete another in September in under 3hrs30mins.
+Playing computer games, especially strategy games.
+Photography
+
+## Online
+Github: https://github.com/AlexLewis10
+Codewars: https://www.codewars.com/users/ALJALE
+Blog: https://medium.com/@alexlewis374 
