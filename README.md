@@ -1,32 +1,35 @@
 ## Alex Lewis
 
-I'm a Junior Software Developer transitioning from a succesful stint in IT Recruitment. I am a graduate of [Makers Academy](https://blog.makersacademy.com/)
+- [Github Home](https://github.com/AlexLewis10)
+- [Blog](https://medium.com/@alexlewis374) 
+- [LinkedIn](https://www.linkedin.com/in/alex-lewis-022761a8/)
+- [Codewars](https://www.codewars.com/users/ALJALE)
 
-Coming from a succesful background in IT Rectuitment which was preceded by obtaining strong acamdemic qualifications. Now looking to move into the world of tech, in which I can use my creativity to add genuine value into a sector which is only going to grow, not only in size but in terms of the impact on our every day lives.
+I'm a Junior Software Developer transitioning from a succesful stint in IT Recruitment. I am a graduate of [Makers Academy](https://makers.tech/) where in the space of just 16 weeks I have gone from having a basic understanding of Ruby to building complex JavaScript applications using OOP and TDD in an Agile environment.
 
-## Online
-- Github: https://github.com/AlexLewis10
-- Blog: https://medium.com/@alexlewis374 
-- Codewars: https://www.codewars.com/users/ALJALE
+## Projects
+
+| Title | Deployed | Description | Time | Tech | Test |
+|-------|----------|-------------|------|------|------|
+| [Mission-Ctrl](https://github.com/AlexLewis10/mission-ctrl) | http://mission-ctrl.surge.sh/ |VSCode Training Game to teach developers shortcuts to increase their productivity | 2 Weeks | React, Node, Express, MongoDB | Jest, Enzyme |
+
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+**Gathering Requirements**
 
-#### This Skill
+During my time as a recruiter in the IT industry I would reguarly speak with technical hiring managers about their requirements for a vacancy. As hiring managers are incredibly busy, they did not often have the time to speak to them at length. Therefore it was crucial that I asked pertinent questions to understand what was crucial to them. I would gain an understanding of what the aims of the projects were so I could bring someone not only with the correct technical skills but also who had experience on similar projects. During my time at Makers I have also recieved praise in formal reviews for conducting thorough information gathering sessions.
 
-- Experience
-- Achievements
-- Evidence
+**Driven to Learn**
 
-#### Another Skill
+I have suceeded in an industry where the vast majority of people do not last beyond the first 6 months in the job. It is a pressurised environment in which you must adapt and learn new skills quickly.  I didn't know anything about recruitment when I started, let alone the IT industry. With sheer persistance and the willingness to learn I became one of the most consistent employees in the company.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I am currently training for my third marathon. Running a marathon is not so much about stamina as about your ability to carry on when your body is screaming for you to stop. In my second marathon I improved my previous time by over 12 minutes by learning how to optimise my training. I'm on course to hit a sub 3:30hrs time in September.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+**Calming Presence**
+
+During our final project at Makers, a time notorious for being stressful, my teammates praised me for being an equinimitous presence in the group. They mentioned on several occassions that I had read a situation that was getting tense and took steps to calm the situation. It was as simple as suggesting the group take a break. When the meeting continued, we were able to be far more productive than we had previously been. 
+
 
 ## Education
 
@@ -34,7 +37,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC
 - JavaScript, ReactJS, Ruby
-- RSpec, Jasmine, Jest
+- Jasmine, Jest, RSpec, Capybara 
+- HTML, CSS
 - Agile/XP
 
 #### Newcastle University; LLM International Legal Studies: 2012 - 2013
@@ -57,12 +61,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ### J&C Associates March 2015 - February 2020 
 **Senior IT Recruitment Consultant**
 - Covering areas including but not limited to: JavaScript Developers, UX Designers, Architects, Business Analysts     and Project Managers
-- Gaining understanding of the subject matter in order to be informed and therefore adding value for candidates and   clients alike.
-- Taking techincal briefings from hiring managers. Giving feedback on specifications and throughout the process as   to what could be achieved in the market considering the given parameters.
+- Gaining understanding of the subject matter in order to be informed and therefore adding value for candidates and clients alike.
+- Taking techincal briefings from hiring managers. Giving feedback on specifications and throughout the process as to what could be achieved in the market considering the given parameters.
 - Forging a succesful career in an industry where only 1 in 6 make it beyond the first 6 months in the job.
 - A consistently high biller, generating in excess of £700k across 5 years.
-- Progressed from a resourcing role in to a senior position where I was responsible for managing and mainting         relationships on important accounts.
-- Playing a key role in the internal hiring process. Testing prospective employees for aptitude as well as           interpesonal skills. Gained a reputation for using curveball questions effectively in order to provoke       interesting topics of conversation that wouldn't normally be discussed in interviews.
+- Progressed from a resourcing role in to a senior position where I was responsible for managing and mainting relationships on important accounts.
+- Playing a key role in the internal hiring process. Testing prospective employees for aptitude as well as      interpesonal skills. Gained a reputation for using curveball questions effectively in order to provoke       interesting topics of conversation that wouldn't normally be discussed in interviews.
 
 ### Football Radar May 2014 - September 2014   
 **Football Watcher**
