@@ -1,6 +1,8 @@
 ## Alex Lewis
 
-.....................Software Developer. Coming from a succesful background in IT Rectuitment which was preceded by obtaining strong acamdemic qualifications. Now looking to move into the world of tech, in which I can use my creativity to add genuine value into a sector which is only going to grow, not only in size but in terms of the impact on our every day lives.
+I'm a Junior Software Developer transitioning from a succesful stint in IT Recruitment. I am a graduate of [Makers Academy](https://blog.makersacademy.com/)
+
+Coming from a succesful background in IT Rectuitment which was preceded by obtaining strong acamdemic qualifications. Now looking to move into the world of tech, in which I can use my creativity to add genuine value into a sector which is only going to grow, not only in size but in terms of the impact on our every day lives.
 
 ## Online
 - Github: https://github.com/AlexLewis10
@@ -45,7 +47,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Modules included Geopolitics, Geographies of Money and 
 - 2:1 
 
-#### Any other qualifications
+#### A-Levels
 
 - 3 A-Levels at A grade; Georgraphy, Law, History
 - 1 AS-Level at B grade
