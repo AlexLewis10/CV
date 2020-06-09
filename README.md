@@ -10,8 +10,8 @@ I'm a Junior Software Developer transitioning from a succesful stint in IT Recru
 ## Projects
 
 | Title | Description | Time | Tech | Test |
-|-------|----------|-------------|------|------|------|
-| [Mission-Ctrl](https://github.com/AlexLewis10/mission-ctrl) | VSCode Training Game to teach developers shortcuts to increase their productivity. As a group, we were new to the MERN stack, so there was a steep learning curve so there was a heavy focus on learning new technologies.  | 2 Weeks | React, Node, Express, MongoDB, Travis CI/CD | Jest, Enzyme |
+|-------|------|------|------|------|
+|[Mission-Ctrl](https://github.com/AlexLewis10/mission-ctrl) | VSCode Training Game to teach developers shortcuts to increase their productivity. As a group, we were new to the MERN stack, there was a steep learning curve so we put a heavy focus on learning new technologies. | 2 Weeks | React, Node, Express, MongoDB, Travis CI/CD | Jest, Enzyme |
 
 
 ## Skills
