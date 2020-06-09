@@ -9,9 +9,9 @@ I'm a Junior Software Developer transitioning from a succesful stint in IT Recru
 
 ## Projects
 
-| Title | Deployed | Description | Time | Tech | Test & Other |
+| Title | Description | Time | Tech | Test |
 |-------|----------|-------------|------|------|------|
-| [Mission-Ctrl](https://github.com/AlexLewis10/mission-ctrl) | http://mission-ctrl.surge.sh/ |VSCode Training Game to teach developers shortcuts to increase their productivity. As a group, we were new to the MERN stack, so there was a steep learning curve so there was a heavy focus on learning new technologies.  | 2 Weeks | React, Node, Express, MongoDB | Jest, Enzyme, TravisCI/CD, Surge |
+| [Mission-Ctrl](https://github.com/AlexLewis10/mission-ctrl) | VSCode Training Game to teach developers shortcuts to increase their productivity. As a group, we were new to the MERN stack, so there was a steep learning curve so there was a heavy focus on learning new technologies.  | 2 Weeks | React, Node, Express, MongoDB, Travis CI/CD | Jest, Enzyme |
 
 
 ## Skills
@@ -34,12 +34,13 @@ During our final project at Makers, a time notorious for being stressful, my tea
 ## Education
 
 #### Makers Academy (Frebruary 2020 - June 2020)
-
-- OOP, TDD, MVC
-- JavaScript, ReactJS, Ruby
-- Jasmine, Jest, RSpec, Capybara 
-- HTML, CSS
-- Agile/XP
+Makers is an intensive software development course. 
+- Focussing on OO principles while developing in JavaScript, ReactJS and Ruby
+- Makers are TDD Evangalists. I can follow a TDD process using Jasmine, Jest, RSpec and Capybara 
+- Gained practical experience using Agile and XP techniques. Working in sprints to deliver projects as part of a development team. 
+- Pair programming.
+- An emotional intelligence curriculum. It has taught me to be more understanding and mindful of others. It has also helped me to learn to relish recieving feedback.
+- A little bit of styling using HTML, CSS
 
 #### Newcastle University; LLM International Legal Studies: 2012 - 2013; Merit
 
