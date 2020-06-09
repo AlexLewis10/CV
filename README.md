@@ -9,16 +9,16 @@ I'm a Junior Software Developer transitioning from a succesful stint in IT Recru
 
 ## Projects
 
-| Title | Deployed | Description | Time | Tech | Test |
+| Title | Deployed | Description | Time | Tech | Test & Other |
 |-------|----------|-------------|------|------|------|
-| [Mission-Ctrl](https://github.com/AlexLewis10/mission-ctrl) | http://mission-ctrl.surge.sh/ |VSCode Training Game to teach developers shortcuts to increase their productivity | 2 Weeks | React, Node, Express, MongoDB | Jest, Enzyme |
+| [Mission-Ctrl](https://github.com/AlexLewis10/mission-ctrl) | http://mission-ctrl.surge.sh/ |VSCode Training Game to teach developers shortcuts to increase their productivity. As a group, we were new to the MERN stack, so there was a steep learning curve so there was a heavy focus on learning new technologies.  | 2 Weeks | React, Node, Express, MongoDB | Jest, Enzyme, TravisCI/CD, Surge |
 
 
 ## Skills
 
 **Gathering Requirements**
 
-During my time as a recruiter in the IT industry I would reguarly speak with technical hiring managers about their requirements for a vacancy. As hiring managers are incredibly busy, they did not often have the time to speak to them at length. Therefore it was crucial that I asked pertinent questions to understand what was crucial to them. I would gain an understanding of what the aims of the projects were so I could bring someone not only with the correct technical skills but also who had experience on similar projects. During my time at Makers I have also recieved praise in formal reviews for conducting thorough information gathering sessions.
+During my time as a recruiter in the IT industry I would reguarly speak with technical hiring managers about their requirements for a vacancy. As hiring managers are incredibly busy, they rarely had time to speak at length. Therefore it was crucial that I asked pertinent questions to understand what was crucial to them. I would gain an understanding of what the aims of the projects were so I could bring someone not only with the correct technical skills but also who had experience on similar work programmes. During my time at Makers I have also recieved praise in formal reviews for conducting thorough information gathering sessions.
 
 **Driven to Learn**
 
@@ -28,7 +28,7 @@ I am currently training for my third marathon. Running a marathon is not so much
 
 **Calming Presence**
 
-During our final project at Makers, a time notorious for being stressful, my teammates praised me for being an equinimitous presence in the group. They mentioned on several occassions that I had read a situation that was getting tense and took steps to calm the situation. It was as simple as suggesting the group take a break. When the meeting continued, we were able to be far more productive than we had previously been. 
+During our final project at Makers, a time notorious for being stressful, my teammates praised me for being an equinimitous presence in the group. They mentioned on several occassions that I had read a situation that was getting tense and took steps to calm everyone down. It was as simple as suggesting the group take a break. When the meeting continued, we were able to be far more productive than we had previously been. 
 
 
 ## Education
@@ -41,20 +41,17 @@ During our final project at Makers, a time notorious for being stressful, my tea
 - HTML, CSS
 - Agile/XP
 
-#### Newcastle University; LLM International Legal Studies: 2012 - 2013
+#### Newcastle University; LLM International Legal Studies: 2012 - 2013; Merit
 
 - Modules including International Sale of Goods, International Movement of People, Human Rights, Public International Law
-- Merit
 
-#### Newcastle University; BA Geography: 2009 - 2012
+#### Newcastle University; BA Geography: 2009 - 2012; 2:1
 
-- Modules included Geopolitics, Geographies of Money and 
-- 2:1 
+- Modules included Geopolitics, Geographies of Money and Development & Globalisation
 
 #### A-Levels
 
-- 3 A-Levels at A grade; Georgraphy, Law, History
-- 1 AS-Level at B grade
+- 3 A-Levels at A grade; Georgraphy, Law, History; 1 AS-Level at B grade
 
 ## Experience
 
