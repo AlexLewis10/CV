@@ -1,11 +1,10 @@
 ## Alex Lewis
 
-- [Github Home](https://github.com/AlexLewis10)
-- [Blog](https://medium.com/@alexlewis374) 
-- [LinkedIn](https://www.linkedin.com/in/alex-lewis-022761a8/)
-- [Codewars](https://www.codewars.com/users/ALJALE)
+[Github Home](https://github.com/AlexLewis10) | [Blog](https://medium.com/@alexlewis374) | [LinkedIn](https://www.linkedin.com/in/alex-lewis-022761a8/) | [Codewars](https://www.codewars.com/users/ALJALE)
 
 I'm a Junior Software Developer transitioning from a succesful stint in IT Recruitment. I am a graduate of [Makers Academy](https://makers.tech/) where in the space of just 16 weeks I have gone from having a basic understanding of Ruby to building complex JavaScript applications using OOP and TDD in an Agile environment.
+
+
 
 ## Projects
 
@@ -61,17 +60,20 @@ Makers is an intensive software development course.
 - Covering areas including but not limited to: JavaScript Developers, UX Designers, Architects, Business Analysts     and Project Managers
 - Gaining understanding of the subject matter in order to be informed and therefore adding value for candidates and clients alike.
 - Taking techincal briefings from hiring managers. Giving feedback on specifications and throughout the process as to what could be achieved in the market considering the given parameters.
-- Forging a succesful career in an industry where only 1 in 6 make it beyond the first 6 months in the job.
 - A consistently high biller, generating in excess of £700k across 5 years.
 - Progressed from a resourcing role in to a senior position where I was responsible for managing and mainting relationships on important accounts.
 - Playing a key role in the internal hiring process. Testing prospective employees for aptitude as well as      interpesonal skills. Gained a reputation for using curveball questions effectively in order to provoke       interesting topics of conversation that wouldn't normally be discussed in interviews.
 
+### Camden Head October 2014 - February 2015
+**Bar Work**
+
 ### Football Radar May 2014 - September 2014   
 **Football Watcher**
+- Watching live football matches gathering in-play statistics.
 
 ## Hobbies
 
-- I'm an active person. I've ran two marathons and I'm loooking to complete another in September in a PB.
-- Football
+- I'm an active person. I've played sport all my life. I've ran two marathons and I'm loooking to complete another in September in a PB.
+- Football in all it's forms, watching and playing. I'm a Newcastle fan and my european team is Borussia Dortmund.
 - Computer Games; Strategy games including Civilisation V and Total War. I've also played a lot of Football Manager   unfotunately
-- Photography
+- Photography; I brought a DSLR a few years ago and it has definitely enhanced my enjoyment when I travel as I consciously look at where I am. 
