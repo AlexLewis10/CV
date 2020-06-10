@@ -32,7 +32,7 @@ During our final project at Makers, a time notorious for being stressful, my tea
 
 ## Education
 
-#### Makers Academy (Frebruary 2020 - June 2020)
+#### Makers Academy; Frebruary 2020 - June 2020
 Makers is an intensive software development course. 
 - Focussing on OO principles while developing in JavaScript, ReactJS and Ruby
 - Makers are TDD Evangalists. I can follow a TDD process using Jasmine, Jest, RSpec and Capybara 
@@ -55,7 +55,7 @@ Makers is an intensive software development course.
 
 ## Experience
 
-### J&C Associates March 2015 - February 2020 
+### J&C Associates; March 2015 - February 2020 
 **Senior IT Recruitment Consultant**
 - Covering areas including but not limited to: JavaScript Developers, UX Designers, Architects, Business Analysts     and Project Managers
 - Gaining understanding of the subject matter in order to be informed and therefore adding value for candidates and clients alike.
@@ -64,10 +64,10 @@ Makers is an intensive software development course.
 - Progressed from a resourcing role in to a senior position where I was responsible for managing and mainting relationships on important accounts.
 - Playing a key role in the internal hiring process. Testing prospective employees for aptitude as well as      interpesonal skills. Gained a reputation for using curveball questions effectively in order to provoke       interesting topics of conversation that wouldn't normally be discussed in interviews.
 
-### Camden Head October 2014 - February 2015
+### Camden Head; October 2014 - February 2015
 **Bar Work**
 
-### Football Radar May 2014 - September 2014   
+### Football Radar; May 2014 - September 2014   
 **Football Watcher**
 - Watching live football matches gathering in-play statistics.
 
