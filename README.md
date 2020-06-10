@@ -75,5 +75,5 @@ Makers is an intensive software development course.
 
 - I'm an active person. I've played sport all my life. I've ran two marathons and I'm loooking to complete another in September in a PB.
 - Football in all it's forms, watching and playing. I'm a Newcastle fan and my european team is Borussia Dortmund.
-- Computer Games; Strategy games including Civilisation V and Total War. I've also played a lot of Football Manager   unfotunately
+- Computer Games; Strategy games including Civilisation V and Total War. Unfortunately, I've also played a lot of Football Manager.
 - Photography; I brought a DSLR a few years ago and it has definitely enhanced my enjoyment when I travel as I consciously look at where I am. 
