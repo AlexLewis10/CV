@@ -11,6 +11,7 @@ I'm a Junior Software Developer transitioning from a successful stint in IT Recr
 | Title | Description | Time | Tech | Test |
 |-------|------|------|------|------|
 |[Mission-Ctrl](https://github.com/AlexLewis10/mission-ctrl) | VSCode Training Game to teach developers shortcuts to increase their productivity. As a group, we were new to the MERN stack, there was a steep learning curve so we put a heavy focus on learning new technologies. | 2 weeks | React, Node, Express, MongoDB, Travis CI/CD | Jest, Enzyme |
+|[React Thermostat](https://github.com/AlexLewis10/react-thermostat) | A simple thermostat controller. In this project I was able to learn the basics of React as well as getting to grips with Enzyme | 1.5 days | React | Jest, Enzyme|
 
 
 ## Skills
