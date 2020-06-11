@@ -2,7 +2,7 @@
 
 [Github Home](https://github.com/AlexLewis10) | [Blog](https://medium.com/@alexlewis374) | [LinkedIn](https://www.linkedin.com/in/alex-lewis-022761a8/) | [Codewars](https://www.codewars.com/users/ALJALE)
 
-I'm a Junior Software Developer transitioning from a succesful stint in IT Recruitment. I am a graduate of [Makers Academy](https://makers.tech/) where in the space of just 16 weeks I have gone from having a basic understanding of Ruby to building complex JavaScript applications using OOP and TDD in an Agile environment.
+I'm a Junior Software Developer transitioning from a successful stint in IT Recruitment. I am a graduate of [Makers Academy](https://makers.tech/) where in the space of just 16 weeks I have gone from having a basic understanding of Ruby to building complex JavaScript applications using OOP and TDD in an Agile environment.
 
 
 
