@@ -2,8 +2,7 @@
 
 [Github Home](https://github.com/AlexLewis10) | [Blog](https://medium.com/@alexlewis374) | [LinkedIn](https://www.linkedin.com/in/alex-lewis-022761a8/) | [Codewars](https://www.codewars.com/users/ALJALE)
 
-I'm a Junior Software Developer transitioning from a successful stint in IT Recruitment. I am a graduate of [Makers Academy](https://makers.tech/) where in the space of just 16 weeks I have gone from having a basic understanding of Ruby to building complex JavaScript applications using OOP and TDD in an Agile environment.
-
+I'm a Junior Software Developer transitioning from a successful stint in IT Recruitment in which I generated over £700k of income in 5 years placing Front End Developers and UX Designers. I am a graduate of [Makers Academy](https://makers.tech/) where in the space of just 16 weeks I have gone from having a basic understanding of Ruby to building complex JavaScript applications using OOP and TDD in an Agile environment.
 
 
 ## Projects
@@ -19,13 +18,13 @@ I'm a Junior Software Developer transitioning from a successful stint in IT Recr
 
 **Gathering Requirements**
 
-During my time as a recruiter in the IT industry I would regularly speak with technical hiring managers about their requirements for a vacancy. As hiring managers are incredibly busy, they rarely had time to speak at length. Therefore, it was crucial that I asked pertinent questions to understand what was a priority for them. I would gain an understanding of what the aims of the projects were so I could find someone who had not only the correct technical skills but also experience on similar work programmes. During my time at Makers, I have also received praise in formal reviews for conducting thorough information-gathering sessions.
+During my time recruiting in the IT industry I reguarly spoke with technical hiring managers about their requirements for a vacancy. As hiring managers are incredibly busy, they rarely had time to speak at length. Therefore, it was crucial that I asked pertinent questions to understand what was a priority in terms of technical skill and cultural fit. During my time at Makers, I have also received praise in formal reviews for conducting thorough information-gathering sessions.
 
 **Driven to Learn**
+ 
+I have succeeded in the recruitment industry where the vast majority of people do not last beyond the first 6 months in the job. With sheer persistence and the willingness to learn, I became one of the most consistent billers in the company. Recruitment is a pressurised environment, in which I had to be adaptable and learn new skills quickly.
 
-I have succeeded in an industry where the vast majority of people do not last beyond the first 6 months in the job. It is a pressurised environment in which you must adapt and learn new skills quickly. I didn't know anything about recruitment when I started, let alone the IT industry. With sheer persistence and the willingness to learn, I became one of the most consistent billers in the company.
-
-I am currently training for my third marathon. Running a marathon is not so much about stamina as about your ability to persevere when your body is screaming for you to stop. In my second marathon I improved my previous time by over 12 minutes by learning to optimise my training. I'm on course to hit a sub 3:30hrs time in September.
+I am currently training for my third marathon. In my second marathon I improved my previous time by over 12 minutes by optimising my training. I'm on course to hit a sub 3:30hrs time in September by making further improvements.
 
 
 **Calming Presence**
@@ -62,8 +61,6 @@ Makers is an intensive software development course.
 ### J&C Associates; March 2015 - February 2020 
 **Senior IT Recruitment Consultant**
 - Covered areas including but not limited to: JavaScript Developers, UX Designers, Architects, Business Analysts and Project Managers.
-- Gained understanding of the subject matter in order to be better informed and therefore add value for candidates and clients alike.
-- Received technical briefings from hiring managers. Provided feedback on specifications as to what could be achieved in the market considering the given parameters.
 - A consistently high biller; I generated in excess of £700k across 5 years.
 - Progressed from a resourcing role into a senior position where I was responsible for managing and maintaining relationships on important accounts.
 - Played a key role in the internal hiring process, which included evaluating prospective employees for aptitude as well as interpersonal skills. Gained a reputation for using curveball questions effectively in order to provoke interesting topics of conversation that wouldn't normally be discussed in interviews.
