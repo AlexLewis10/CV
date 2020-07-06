@@ -11,6 +11,7 @@ I'm a Junior Software Developer transitioning from a successful stint in IT Recr
 |-------|------|------|------|------|
 |[Mission-Ctrl](https://github.com/AlexLewis10/mission-ctrl) | VSCode Training Game to teach developers shortcuts to increase their productivity. As a group, we were new to the MERN stack, there was a steep learning curve so we put a heavy focus on learning new technologies. | 2 weeks | React, Node, Express, MongoDB, Travis CI/CD | Jest, Enzyme |
 |[React Thermostat](https://github.com/AlexLewis10/react-thermostat) | A simple thermostat controller. In this project I was able to learn the basics of React as well as getting to grips with Enzyme | 1.5 days | React | Jest, Enzyme|
+| [Bank Challenge](https://github.com/AlexLewis10/bank-tech-test2) | A simple bank account that allows the user to make depoists, withdrawals as well as printing a statement (In progress). | 3 days | JavaScript, Node | Jest |
 |[Acebook](https://github.com/AlexLewis10/acebook-rails-template) | A Facebook clone built using Ruby on Rails with a PostgreSQL database | 2 weeks | Ruby on Rails, PostgreSQL, Travis, Heroku, Bcrypt | RSpec, Capybara | 
 
 
